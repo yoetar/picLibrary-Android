@@ -16,7 +16,6 @@ import androidx.appcompat.widget.AppCompatImageView;
  * {@link ImageView} extension that animates its image with the
  * <a href="http://en.wikipedia.org/wiki/Ken_Burns_effect">Ken Burns Effect</a>.
  *
- * @author Flavio Faria
  * @see Transition
  * @see TransitionGenerator
  */
