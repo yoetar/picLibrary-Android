@@ -1,0 +1,3 @@
+rootProject.name='PicLibrary'
+include ':app'
+include ':library'
