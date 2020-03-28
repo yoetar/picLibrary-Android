@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <yoetar.library.viewPicture.KenBurnsView
+        android:id="@+id/IdKenBurnsView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/splash_bg"
+        android:scaleType="fitXY"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
